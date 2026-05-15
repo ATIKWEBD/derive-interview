@@ -1,0 +1,770 @@
+[
+  {
+    "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+    "source_url": "https://finance.yahoo.com/markets/",
+    "source_name": "Yahoo Finance",
+    "content_type": "market_data",
+    "title": "Markets: World Indexes, Futures, Bonds, Currencies, Stocks & ETFs - Yahoo Finance",
+    "body": "Markets: World Indexes, Futures, Bonds, Currencies, Stocks & ETFs - Yahoo Finance Oops, something went wrong Skip to navigation Skip to main content Skip to right column Markets Overview Symbol Price Change % Nasdaq 26,635.22 +232.88 (+0.88%) +0.88% S&P 500 7,501.24 +56.99 (+0.77%) +0.77% Dow 30 50,063.46 +370.26 (+0.75%) +0.75% IBOVESPA 178,365.86 +1,267.56 (+0.72%) +0.72% Russell 2000 2,863.09 +19.15 (+0.67%) +0.67% S&P/TSX Composite index 34,268.27 +226.84 (+0.67%) +0.67% US Dollar Index 99.14 +0.32 (+0.32%) +0.32% VIX 17.26 -0.61 (-3.41%) -3.41% Symbol Price Change % EURO STOXX 50                 I 5,934.96 +126.51 (+2.18%) +2.18% DAX                           P 24,456.26 +319.45 (+1.32%) +1.32% Euronext 100 Index 1,827.55 +19.28 (+1.07%) +1.07% CAC 40 8,082.27 +74.30 (+0.93%) +0.93% MSCI EUROPE 2,732.34 +14.20 (+0.52%) +0.52% FTSE 100 10,372.93 +47.63 (+0.46%) +0.46% Euro Index 116.68 -0.42 (-0.36%) -0.36% British Pound Index 134.51 -0.73 (-0.54%) -0.54% Symbol Price Change % S&P BSE SENSEX 75,507.75 +109.03 (+0.14%) +0.14% S&P/ASX 200 [XJO] 8,630.80 -9.90 (-0.11%) -0.11% Japanese Yen Index 63.15 -0.19 (-0.30%) -0.30% Australian Dollar Index 72.21 -0.38 (-0.53%) -0.53% SSE Composite Index 4,129.71 -48.21 (-1.15%) -1.15% Hang Seng 25,901.16 -487.88 (-1.85%) -1.85% Nikkei 225 61,302.59 -1,351.46 (-2.16%) -2.16% KOSPI Composite Index 7,494.10 -487.31 (-6.11%) -6.11% Symbol Price Change % Crude Oil 103.35 +2.18 (+2.15%) +2.15% Brent Crude Oil Last Day Financ 107.52 +1.80 (+1.70%) +1.70% Natural Gas Jun 26 2.9220 +0.0280 (+0.97%) +0.97% Gold 4,581.30 -104.00 (-2.22%) -2.22% Copper Jul 26 6.37 -0.24 (-3.70%) -3.70% Silver 79.04 -6.29 (-7.37%) -7.37% Symbol Price Change % USD/AUD 1.3946 +0.0102 (+0.74%) +0.74% USD/MXN 17.3187 +0.1152 (+0.67%) +0.67% USD/GBP 0.7491 +0.0030 (+0.40%) +0.40% USD/CAD 1.3743 +0.0027 (+0.20%) +0.20% USD/JPY 158.4610 +0.1120 (+0.07%) +0.07% EUR/USD 1.1646 -0.0026 (-0.22%) -0.22% Symbol Price Change % 2 Yr T-Note Futures 103.24 -0.12 (-0.12%) -0.12% 5-Yr Bond 4.1210 -0.0090 (-0.22%) -0.22% 13-Wk Bond 3.5880 -0.0120 (-0.33%) -0.33% 10-Yr Bond 4.4610 -0.0200 (-0.45%) -0.45% 10 Yr T-Note Futures 109.59 -0.52 (-0.47%) -0.47% 30-Yr Bond 5.01 -0.03 (-0.69%) -0.69% Select a Sector for a Visual Breakdown All Sectors Sector Market Weight YTD Return Note: Percentage % data on heatmap indicates Day Return All Sectors <= -3 -2 -1 0 1 2 >= 3 Trending Now Most Active Trending Now Top Gainers Top Losers 52 Week Gainers 52 Week Losers More Symbol Name Price Change Change % Volume Avg Vol (3M) Market Cap P/E Ratio (TTM) 52 Wk Change % 52 Wk Range All Most Active Top Gainers Top Losers Symbol Name Price Change Change % Market Cap Volume Volume In Currency (24hr) Total Volume All Currencies (24hr) Circulating Supply 52 Wk Change % 52 Wk Range Highest Valuation 52 Week Gainers Recently Funded Most Funded Symbol Company Price 52 Wk Change % Estimated Valuation Total Funding Raised Latest Funding Date Latest Amount Raised Latest Round Share Class Private Company Sector Valuation by Forge Firm data by EquityZen Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change % Symbol Name Price Change %",
+    "published_at": null,
+    "extracted_at": "2026-05-15T06:37:54.871559Z",
+    "numerical_data": [
+      {
+        "label": "Nasdaq Price",
+        "value": "26635.22",
+        "unit": null,
+        "source_span": "26,635.22"
+      },
+      {
+        "label": "Nasdaq Change",
+        "value": "232.88",
+        "unit": null,
+        "source_span": "+232.88"
+      },
+      {
+        "label": "Nasdaq Percent Change",
+        "value": "0.88",
+        "unit": "%",
+        "source_span": "(+0.88%)"
+      },
+      {
+        "label": "S&P 500 Price",
+        "value": "7501.24",
+        "unit": null,
+        "source_span": "7,501.24"
+      },
+      {
+        "label": "S&P 500 Change",
+        "value": "56.99",
+        "unit": null,
+        "source_span": "+56.99"
+      },
+      {
+        "label": "S&P 500 Percent Change",
+        "value": "0.77",
+        "unit": "%",
+        "source_span": "(+0.77%)"
+      },
+      {
+        "label": "Dow 30 Price",
+        "value": "50063.46",
+        "unit": null,
+        "source_span": "50,063.46"
+      },
+      {
+        "label": "Dow 30 Change",
+        "value": "370.26",
+        "unit": null,
+        "source_span": "+370.26"
+      },
+      {
+        "label": "Dow 30 Percent Change",
+        "value": "0.75",
+        "unit": "%",
+        "source_span": "(+0.75%)"
+      },
+      {
+        "label": "IBOVESPA Price",
+        "value": "178365.86",
+        "unit": null,
+        "source_span": "178,365.86"
+      },
+      {
+        "label": "IBOVESPA Change",
+        "value": "1267.56",
+        "unit": null,
+        "source_span": "+1,267.56"
+      },
+      {
+        "label": "IBOVESPA Percent Change",
+        "value": "0.72",
+        "unit": "%",
+        "source_span": "(+0.72%)"
+      },
+      {
+        "label": "Russell 2000 Price",
+        "value": "2863.09",
+        "unit": null,
+        "source_span": "2,863.09"
+      },
+      {
+        "label": "Russell 2000 Change",
+        "value": "19.15",
+        "unit": null,
+        "source_span": "+19.15"
+      },
+      {
+        "label": "Russell 2000 Percent Change",
+        "value": "0.67",
+        "unit": "%",
+        "source_span": "(+0.67%)"
+      },
+      {
+        "label": "S&P/TSX Composite index Price",
+        "value": "34268.27",
+        "unit": null,
+        "source_span": "34,268.27"
+      },
+      {
+        "label": "S&P/TSX Composite index Change",
+        "value": "226.84",
+        "unit": null,
+        "source_span": "+226.84"
+      },
+      {
+        "label": "S&P/TSX Composite index Percent Change",
+        "value": "0.67",
+        "unit": "%",
+        "source_span": "(+0.67%)"
+      },
+      {
+        "label": "US Dollar Index Price",
+        "value": "99.14",
+        "unit": null,
+        "source_span": "99.14"
+      },
+      {
+        "label": "US Dollar Index Change",
+        "value": "0.32",
+        "unit": null,
+        "source_span": "+0.32"
+      },
+      {
+        "label": "US Dollar Index Percent Change",
+        "value": "0.32",
+        "unit": "%",
+        "source_span": "(+0.32%)"
+      },
+      {
+        "label": "VIX Price",
+        "value": "17.26",
+        "unit": null,
+        "source_span": "17.26"
+      },
+      {
+        "label": "VIX Change",
+        "value": "-0.61",
+        "unit": null,
+        "source_span": "-0.61"
+      },
+      {
+        "label": "VIX Percent Change",
+        "value": "-3.41",
+        "unit": "%",
+        "source_span": "(-3.41%)"
+      },
+      {
+        "label": "EURO STOXX 50 I Price",
+        "value": "5934.96",
+        "unit": null,
+        "source_span": "5,934.96"
+      },
+      {
+        "label": "EURO STOXX 50 I Change",
+        "value": "126.51",
+        "unit": null,
+        "source_span": "+126.51"
+      },
+      {
+        "label": "EURO STOXX 50 I Percent Change",
+        "value": "2.18",
+        "unit": "%",
+        "source_span": "(+2.18%)"
+      },
+      {
+        "label": "DAX P Price",
+        "value": "24456.26",
+        "unit": null,
+        "source_span": "24,456.26"
+      },
+      {
+        "label": "DAX P Change",
+        "value": "319.45",
+        "unit": null,
+        "source_span": "+319.45"
+      },
+      {
+        "label": "DAX P Percent Change",
+        "value": "1.32",
+        "unit": "%",
+        "source_span": "(+1.32%)"
+      },
+      {
+        "label": "Euronext 100 Index Price",
+        "value": "1827.55",
+        "unit": null,
+        "source_span": "1,827.55"
+      },
+      {
+        "label": "Euronext 100 Index Change",
+        "value": "19.28",
+        "unit": null,
+        "source_span": "+19.28"
+      },
+      {
+        "label": "Euronext 100 Index Percent Change",
+        "value": "1.07",
+        "unit": "%",
+        "source_span": "(+1.07%)"
+      },
+      {
+        "label": "CAC 40 Price",
+        "value": "8082.27",
+        "unit": null,
+        "source_span": "8,082.27"
+      },
+      {
+        "label": "CAC 40 Change",
+        "value": "74.30",
+        "unit": null,
+        "source_span": "+74.30"
+      },
+      {
+        "label": "CAC 40 Percent Change",
+        "value": "0.93",
+        "unit": "%",
+        "source_span": "(+0.93%)"
+      },
+      {
+        "label": "MSCI EUROPE Price",
+        "value": "2732.34",
+        "unit": null,
+        "source_span": "2,732.34"
+      },
+      {
+        "label": "MSCI EUROPE Change",
+        "value": "14.20",
+        "unit": null,
+        "source_span": "+14.20"
+      },
+      {
+        "label": "MSCI EUROPE Percent Change",
+        "value": "0.52",
+        "unit": "%",
+        "source_span": "(+0.52%)"
+      },
+      {
+        "label": "FTSE 100 Price",
+        "value": "10372.93",
+        "unit": null,
+        "source_span": "10,372.93"
+      },
+      {
+        "label": "FTSE 100 Change",
+        "value": "47.63",
+        "unit": null,
+        "source_span": "+47.63"
+      },
+      {
+        "label": "FTSE 100 Percent Change",
+        "value": "0.46",
+        "unit": "%",
+        "source_span": "(+0.46%)"
+      },
+      {
+        "label": "Euro Index Price",
+        "value": "116.68",
+        "unit": null,
+        "source_span": "116.68"
+      },
+      {
+        "label": "Euro Index Change",
+        "value": "-0.42",
+        "unit": null,
+        "source_span": "-0.42"
+      },
+      {
+        "label": "Euro Index Percent Change",
+        "value": "-0.36",
+        "unit": "%",
+        "source_span": "(-0.36%)"
+      },
+      {
+        "label": "British Pound Index Price",
+        "value": "134.51",
+        "unit": null,
+        "source_span": "134.51"
+      },
+      {
+        "label": "British Pound Index Change",
+        "value": "-0.73",
+        "unit": null,
+        "source_span": "-0.73"
+      },
+      {
+        "label": "British Pound Index Percent Change",
+        "value": "-0.54",
+        "unit": "%",
+        "source_span": "(-0.54%)"
+      },
+      {
+        "label": "S&P BSE SENSEX Price",
+        "value": "75507.75",
+        "unit": null,
+        "source_span": "75,507.75"
+      },
+      {
+        "label": "S&P BSE SENSEX Change",
+        "value": "109.03",
+        "unit": null,
+        "source_span": "+109.03"
+      },
+      {
+        "label": "S&P BSE SENSEX Percent Change",
+        "value": "0.14",
+        "unit": "%",
+        "source_span": "(+0.14%)"
+      },
+      {
+        "label": "S&P/ASX 200 [XJO] Price",
+        "value": "8630.80",
+        "unit": null,
+        "source_span": "8,630.80"
+      },
+      {
+        "label": "S&P/ASX 200 [XJO] Change",
+        "value": "-9.90",
+        "unit": null,
+        "source_span": "-9.90"
+      },
+      {
+        "label": "S&P/ASX 200 [XJO] Percent Change",
+        "value": "-0.11",
+        "unit": "%",
+        "source_span": "(-0.11%)"
+      },
+      {
+        "label": "Japanese Yen Index Price",
+        "value": "63.15",
+        "unit": null,
+        "source_span": "63.15"
+      },
+      {
+        "label": "Japanese Yen Index Change",
+        "value": "-0.19",
+        "unit": null,
+        "source_span": "-0.19"
+      },
+      {
+        "label": "Japanese Yen Index Percent Change",
+        "value": "-0.30",
+        "unit": "%",
+        "source_span": "(-0.30%)"
+      },
+      {
+        "label": "Australian Dollar Index Price",
+        "value": "72.21",
+        "unit": null,
+        "source_span": "72.21"
+      },
+      {
+        "label": "Australian Dollar Index Change",
+        "value": "-0.38",
+        "unit": null,
+        "source_span": "-0.38"
+      },
+      {
+        "label": "Australian Dollar Index Percent Change",
+        "value": "-0.53",
+        "unit": "%",
+        "source_span": "(-0.53%)"
+      },
+      {
+        "label": "SSE Composite Index Price",
+        "value": "4129.71",
+        "unit": null,
+        "source_span": "4,129.71"
+      },
+      {
+        "label": "SSE Composite Index Change",
+        "value": "-48.21",
+        "unit": null,
+        "source_span": "-48.21"
+      },
+      {
+        "label": "SSE Composite Index Percent Change",
+        "value": "-1.15",
+        "unit": "%",
+        "source_span": "(-1.15%)"
+      },
+      {
+        "label": "Hang Seng Price",
+        "value": "25901.16",
+        "unit": null,
+        "source_span": "25,901.16"
+      },
+      {
+        "label": "Hang Seng Change",
+        "value": "-487.88",
+        "unit": null,
+        "source_span": "-487.88"
+      },
+      {
+        "label": "Hang Seng Percent Change",
+        "value": "-1.85",
+        "unit": "%",
+        "source_span": "(-1.85%)"
+      },
+      {
+        "label": "Nikkei 225 Price",
+        "value": "61302.59",
+        "unit": null,
+        "source_span": "61,302.59"
+      },
+      {
+        "label": "Nikkei 225 Change",
+        "value": "-1351.46",
+        "unit": null,
+        "source_span": "-1,351.46"
+      },
+      {
+        "label": "Nikkei 225 Percent Change",
+        "value": "-2.16",
+        "unit": "%",
+        "source_span": "(-2.16%)"
+      },
+      {
+        "label": "KOSPI Composite Index Price",
+        "value": "7494.10",
+        "unit": null,
+        "source_span": "7,494.10"
+      },
+      {
+        "label": "KOSPI Composite Index Change",
+        "value": "-487.31",
+        "unit": null,
+        "source_span": "-487.31"
+      },
+      {
+        "label": "KOSPI Composite Index Percent Change",
+        "value": "-6.11",
+        "unit": "%",
+        "source_span": "(-6.11%)"
+      },
+      {
+        "label": "Crude Oil Price",
+        "value": "103.35",
+        "unit": null,
+        "source_span": "103.35"
+      },
+      {
+        "label": "Crude Oil Change",
+        "value": "2.18",
+        "unit": null,
+        "source_span": "+2.18"
+      },
+      {
+        "label": "Crude Oil Percent Change",
+        "value": "2.15",
+        "unit": "%",
+        "source_span": "(+2.15%)"
+      },
+      {
+        "label": "Brent Crude Oil Last Day Financ Price",
+        "value": "107.52",
+        "unit": null,
+        "source_span": "107.52"
+      },
+      {
+        "label": "Brent Crude Oil Last Day Financ Change",
+        "value": "1.80",
+        "unit": null,
+        "source_span": "+1.80"
+      },
+      {
+        "label": "Brent Crude Oil Last Day Financ Percent Change",
+        "value": "1.70",
+        "unit": "%",
+        "source_span": "(+1.70%)"
+      },
+      {
+        "label": "Natural Gas Jun 26 Price",
+        "value": "2.9220",
+        "unit": null,
+        "source_span": "2.9220"
+      },
+      {
+        "label": "Natural Gas Jun 26 Change",
+        "value": "0.0280",
+        "unit": null,
+        "source_span": "+0.0280"
+      },
+      {
+        "label": "Natural Gas Jun 26 Percent Change",
+        "value": "0.97",
+        "unit": "%",
+        "source_span": "(+0.97%)"
+      },
+      {
+        "label": "Gold Price",
+        "value": "4581.30",
+        "unit": null,
+        "source_span": "4,581.30"
+      },
+      {
+        "label": "Gold Change",
+        "value": "-104.00",
+        "unit": null,
+        "source_span": "-104.00"
+      },
+      {
+        "label": "Gold Percent Change",
+        "value": "-2.22",
+        "unit": "%",
+        "source_span": "(-2.22%)"
+      },
+      {
+        "label": "Copper Jul 26 Price",
+        "value": "6.37",
+        "unit": null,
+        "source_span": "6.37"
+      },
+      {
+        "label": "Copper Jul 26 Change",
+        "value": "-0.24",
+        "unit": null,
+        "source_span": "-0.24"
+      },
+      {
+        "label": "Copper Jul 26 Percent Change",
+        "value": "-3.70",
+        "unit": "%",
+        "source_span": "(-3.70%)"
+      },
+      {
+        "label": "Silver Price",
+        "value": "79.04",
+        "unit": null,
+        "source_span": "79.04"
+      },
+      {
+        "label": "Silver Change",
+        "value": "-6.29",
+        "unit": null,
+        "source_span": "-6.29"
+      },
+      {
+        "label": "Silver Percent Change",
+        "value": "-7.37",
+        "unit": "%",
+        "source_span": "(-7.37%)"
+      },
+      {
+        "label": "USD/AUD Price",
+        "value": "1.3946",
+        "unit": null,
+        "source_span": "1.3946"
+      },
+      {
+        "label": "USD/AUD Change",
+        "value": "0.0102",
+        "unit": null,
+        "source_span": "+0.0102"
+      },
+      {
+        "label": "USD/AUD Percent Change",
+        "value": "0.74",
+        "unit": "%",
+        "source_span": "(+0.74%)"
+      },
+      {
+        "label": "USD/MXN Price",
+        "value": "17.3187",
+        "unit": null,
+        "source_span": "17.3187"
+      },
+      {
+        "label": "USD/MXN Change",
+        "value": "0.1152",
+        "unit": null,
+        "source_span": "+0.1152"
+      },
+      {
+        "label": "USD/MXN Percent Change",
+        "value": "0.67",
+        "unit": "%",
+        "source_span": "(+0.67%)"
+      },
+      {
+        "label": "USD/GBP Price",
+        "value": "0.7491",
+        "unit": null,
+        "source_span": "0.7491"
+      },
+      {
+        "label": "USD/GBP Change",
+        "value": "0.0030",
+        "unit": null,
+        "source_span": "+0.0030"
+      },
+      {
+        "label": "USD/GBP Percent Change",
+        "value": "0.40",
+        "unit": "%",
+        "source_span": "(+0.40%)"
+      },
+      {
+        "label": "USD/CAD Price",
+        "value": "1.3743",
+        "unit": null,
+        "source_span": "1.3743"
+      },
+      {
+        "label": "USD/CAD Change",
+        "value": "0.0027",
+        "unit": null,
+        "source_span": "+0.0027"
+      },
+      {
+        "label": "USD/CAD Percent Change",
+        "value": "0.20",
+        "unit": "%",
+        "source_span": "(+0.20%)"
+      },
+      {
+        "label": "USD/JPY Price",
+        "value": "158.4610",
+        "unit": null,
+        "source_span": "158.4610"
+      },
+      {
+        "label": "USD/JPY Change",
+        "value": "0.1120",
+        "unit": null,
+        "source_span": "+0.1120"
+      },
+      {
+        "label": "USD/JPY Percent Change",
+        "value": "0.07",
+        "unit": "%",
+        "source_span": "(+0.07%)"
+      },
+      {
+        "label": "EUR/USD Price",
+        "value": "1.1646",
+        "unit": null,
+        "source_span": "1.1646"
+      },
+      {
+        "label": "EUR/USD Change",
+        "value": "-0.0026",
+        "unit": null,
+        "source_span": "-0.0026"
+      },
+      {
+        "label": "EUR/USD Percent Change",
+        "value": "-0.22",
+        "unit": "%",
+        "source_span": "(-0.22%)"
+      },
+      {
+        "label": "2 Yr T-Note Futures Price",
+        "value": "103.24",
+        "unit": null,
+        "source_span": "103.24"
+      },
+      {
+        "label": "2 Yr T-Note Futures Change",
+        "value": "-0.12",
+        "unit": null,
+        "source_span": "-0.12"
+      },
+      {
+        "label": "2 Yr T-Note Futures Percent Change",
+        "value": "-0.12",
+        "unit": "%",
+        "source_span": "(-0.12%)"
+      },
+      {
+        "label": "5-Yr Bond Price",
+        "value": "4.1210",
+        "unit": null,
+        "source_span": "4.1210"
+      },
+      {
+        "label": "5-Yr Bond Change",
+        "value": "-0.0090",
+        "unit": null,
+        "source_span": "-0.0090"
+      },
+      {
+        "label": "5-Yr Bond Percent Change",
+        "value": "-0.22",
+        "unit": "%",
+        "source_span": "(-0.22%)"
+      },
+      {
+        "label": "13-Wk Bond Price",
+        "value": "3.5880",
+        "unit": null,
+        "source_span": "3.5880"
+      },
+      {
+        "label": "13-Wk Bond Change",
+        "value": "-0.0120",
+        "unit": null,
+        "source_span": "-0.0120"
+      },
+      {
+        "label": "13-Wk Bond Percent Change",
+        "value": "-0.33",
+        "unit": "%",
+        "source_span": "(-0.33%)"
+      },
+      {
+        "label": "10-Yr Bond Price",
+        "value": "4.4610",
+        "unit": null,
+        "source_span": "4.4610"
+      },
+      {
+        "label": "10-Yr Bond Change",
+        "value": "-0.0200",
+        "unit": null,
+        "source_span": "-0.0200"
+      },
+      {
+        "label": "10-Yr Bond Percent Change",
+        "value": "-0.45",
+        "unit": "%",
+        "source_span": "(-0.45%)"
+      },
+      {
+        "label": "10 Yr T-Note Futures Price",
+        "value": "109.59",
+        "unit": null,
+        "source_span": "109.59"
+      },
+      {
+        "label": "10 Yr T-Note Futures Change",
+        "value": "-0.52",
+        "unit": null,
+        "source_span": "-0.52"
+      },
+      {
+        "label": "10 Yr T-Note Futures Percent Change",
+        "value": "-0.47",
+        "unit": "%",
+        "source_span": "(-0.47%)"
+      },
+      {
+        "label": "30-Yr Bond Price",
+        "value": "5.01",
+        "unit": null,
+        "source_span": "5.01"
+      },
+      {
+        "label": "30-Yr Bond Change",
+        "value": "-0.03",
+        "unit": null,
+        "source_span": "-0.03"
+      },
+      {
+        "label": "30-Yr Bond Percent Change",
+        "value": "-0.69",
+        "unit": "%",
+        "source_span": "(-0.69%)"
+      }
+    ]
+  }
+]

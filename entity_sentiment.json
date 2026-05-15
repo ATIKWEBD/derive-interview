@@ -1,0 +1,677 @@
+[
+  {
+    "entity_id": "yahoo_finance",
+    "canonical_name": "Yahoo Finance",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "confidence": 1.0,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Markets: World Indexes, Futures, Bonds, Currencies, Stocks & ETFs - Yahoo Finance",
+        "reason": "Mentioned as the platform providing the market overview, no sentiment expressed about its performance."
+      }
+    ]
+  },
+  {
+    "entity_id": "nasdaq",
+    "canonical_name": "Nasdaq",
+    "sentiment": "Positive",
+    "sentiment_score": 0.88,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Nasdaq 26,635.22 +232.88 (+0.88%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "s_p_500",
+    "canonical_name": "S&P 500",
+    "sentiment": "Positive",
+    "sentiment_score": 0.77,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "S&P 500 7,501.24 +56.99 (+0.77%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "dow_30",
+    "canonical_name": "Dow 30",
+    "sentiment": "Positive",
+    "sentiment_score": 0.75,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Dow 30 50,063.46 +370.26 (+0.75%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "ibovespa",
+    "canonical_name": "IBOVESPA",
+    "sentiment": "Positive",
+    "sentiment_score": 0.72,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "IBOVESPA 178,365.86 +1,267.56 (+0.72%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "russell_2000",
+    "canonical_name": "Russell 2000",
+    "sentiment": "Positive",
+    "sentiment_score": 0.67,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Russell 2000 2,863.09 +19.15 (+0.67%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "s_p_tsx_composite_index",
+    "canonical_name": "S&P/TSX Composite Index",
+    "sentiment": "Positive",
+    "sentiment_score": 0.67,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "S&P/TSX Composite index 34,268.27 +226.84 (+0.67%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "us_dollar_index",
+    "canonical_name": "US Dollar Index",
+    "sentiment": "Positive",
+    "sentiment_score": 0.32,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "US Dollar Index 99.14 +0.32 (+0.32%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "vix",
+    "canonical_name": "VIX",
+    "sentiment": "Negative",
+    "sentiment_score": -3.41,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "VIX 17.26 -0.61 (-3.41%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "euro_stoxx_50",
+    "canonical_name": "EURO STOXX 50",
+    "sentiment": "Positive",
+    "sentiment_score": 2.18,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "EURO STOXX 50                 I 5,934.96 +126.51 (+2.18%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "dax",
+    "canonical_name": "DAX",
+    "sentiment": "Positive",
+    "sentiment_score": 1.32,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "DAX                           P 24,456.26 +319.45 (+1.32%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "euronext_100_index",
+    "canonical_name": "Euronext 100 Index",
+    "sentiment": "Positive",
+    "sentiment_score": 1.07,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Euronext 100 Index 1,827.55 +19.28 (+1.07%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "cac_40",
+    "canonical_name": "CAC 40",
+    "sentiment": "Positive",
+    "sentiment_score": 0.93,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "CAC 40 8,082.27 +74.30 (+0.93%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "msci_europe",
+    "canonical_name": "MSCI EUROPE",
+    "sentiment": "Positive",
+    "sentiment_score": 0.52,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "MSCI EUROPE 2,732.34 +14.20 (+0.52%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "ftse_100",
+    "canonical_name": "FTSE 100",
+    "sentiment": "Positive",
+    "sentiment_score": 0.46,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "FTSE 100 10,372.93 +47.63 (+0.46%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "euro_index",
+    "canonical_name": "Euro Index",
+    "sentiment": "Negative",
+    "sentiment_score": -0.36,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Euro Index 116.68 -0.42 (-0.36%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "british_pound_index",
+    "canonical_name": "British Pound Index",
+    "sentiment": "Negative",
+    "sentiment_score": -0.54,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "British Pound Index 134.51 -0.73 (-0.54%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "s_p_bse_sensex",
+    "canonical_name": "S&P BSE SENSEX",
+    "sentiment": "Positive",
+    "sentiment_score": 0.14,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "S&P BSE SENSEX 75,507.75 +109.03 (+0.14%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "s_p_asx_200",
+    "canonical_name": "S&P/ASX 200",
+    "sentiment": "Negative",
+    "sentiment_score": -0.11,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "S&P/ASX 200 [XJO] 8,630.80 -9.90 (-0.11%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "japanese_yen_index",
+    "canonical_name": "Japanese Yen Index",
+    "sentiment": "Negative",
+    "sentiment_score": -0.3,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Japanese Yen Index 63.15 -0.19 (-0.30%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "australian_dollar_index",
+    "canonical_name": "Australian Dollar Index",
+    "sentiment": "Negative",
+    "sentiment_score": -0.53,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Australian Dollar Index 72.21 -0.38 (-0.53%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "sse_composite_index",
+    "canonical_name": "SSE Composite Index",
+    "sentiment": "Negative",
+    "sentiment_score": -1.15,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "SSE Composite Index 4,129.71 -48.21 (-1.15%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "hang_seng",
+    "canonical_name": "Hang Seng",
+    "sentiment": "Negative",
+    "sentiment_score": -1.85,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Hang Seng 25,901.16 -487.88 (-1.85%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "nikkei_225",
+    "canonical_name": "Nikkei 225",
+    "sentiment": "Negative",
+    "sentiment_score": -2.16,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Nikkei 225 61,302.59 -1,351.46 (-2.16%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "kospi_composite_index",
+    "canonical_name": "KOSPI Composite Index",
+    "sentiment": "Negative",
+    "sentiment_score": -6.11,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "KOSPI Composite Index 7,494.10 -487.31 (-6.11%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "crude_oil",
+    "canonical_name": "Crude Oil",
+    "sentiment": "Positive",
+    "sentiment_score": 2.15,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Crude Oil 103.35 +2.18 (+2.15%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "brent_crude_oil",
+    "canonical_name": "Brent Crude Oil",
+    "sentiment": "Positive",
+    "sentiment_score": 1.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Brent Crude Oil Last Day Financ 107.52 +1.80 (+1.70%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "natural_gas",
+    "canonical_name": "Natural Gas",
+    "sentiment": "Positive",
+    "sentiment_score": 0.97,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Natural Gas Jun 26 2.9220 +0.0280 (+0.97%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "gold",
+    "canonical_name": "Gold",
+    "sentiment": "Negative",
+    "sentiment_score": -2.22,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Gold 4,581.30 -104.00 (-2.22%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "copper",
+    "canonical_name": "Copper",
+    "sentiment": "Negative",
+    "sentiment_score": -3.7,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Copper Jul 26 6.37 -0.24 (-3.70%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "silver",
+    "canonical_name": "Silver",
+    "sentiment": "Negative",
+    "sentiment_score": -7.37,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Silver 79.04 -6.29 (-7.37%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "usd_aud",
+    "canonical_name": "USD/AUD",
+    "sentiment": "Positive",
+    "sentiment_score": 0.74,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "USD/AUD 1.3946 +0.0102 (+0.74%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "usd_mxn",
+    "canonical_name": "USD/MXN",
+    "sentiment": "Positive",
+    "sentiment_score": 0.67,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "USD/MXN 17.3187 +0.1152 (+0.67%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "usd_gbp",
+    "canonical_name": "USD/GBP",
+    "sentiment": "Positive",
+    "sentiment_score": 0.4,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "USD/GBP 0.7491 +0.0030 (+0.40%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "usd_cad",
+    "canonical_name": "USD/CAD",
+    "sentiment": "Positive",
+    "sentiment_score": 0.2,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "USD/CAD 1.3743 +0.0027 (+0.20%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "usd_jpy",
+    "canonical_name": "USD/JPY",
+    "sentiment": "Positive",
+    "sentiment_score": 0.07,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "USD/JPY 158.4610 +0.1120 (+0.07%)",
+        "reason": "Price change data indicates positive movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "eur_usd",
+    "canonical_name": "EUR/USD",
+    "sentiment": "Negative",
+    "sentiment_score": -0.22,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "EUR/USD 1.1646 -0.0026 (-0.22%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "2_yr_t_note_futures",
+    "canonical_name": "2 Yr T-Note Futures",
+    "sentiment": "Negative",
+    "sentiment_score": -0.12,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "2 Yr T-Note Futures 103.24 -0.12 (-0.12%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "5_yr_bond",
+    "canonical_name": "5-Yr Bond",
+    "sentiment": "Negative",
+    "sentiment_score": -0.22,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "5-Yr Bond 4.1210 -0.0090 (-0.22%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "13_wk_bond",
+    "canonical_name": "13-Wk Bond",
+    "sentiment": "Negative",
+    "sentiment_score": -0.33,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "13-Wk Bond 3.5880 -0.0120 (-0.33%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "10_yr_bond",
+    "canonical_name": "10-Yr Bond",
+    "sentiment": "Negative",
+    "sentiment_score": -0.45,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "10-Yr Bond 4.4610 -0.0200 (-0.45%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "10_yr_t_note_futures",
+    "canonical_name": "10 Yr T-Note Futures",
+    "sentiment": "Negative",
+    "sentiment_score": -0.47,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "10 Yr T-Note Futures 109.59 -0.52 (-0.47%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "30_yr_bond",
+    "canonical_name": "30-Yr Bond",
+    "sentiment": "Negative",
+    "sentiment_score": -0.69,
+    "confidence": 0.9,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "30-Yr Bond 5.01 -0.03 (-0.69%)",
+        "reason": "Price change data indicates negative movement."
+      }
+    ]
+  },
+  {
+    "entity_id": "forge_firm",
+    "canonical_name": "Forge Firm",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "confidence": 1.0,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Valuation by Forge Firm data by EquityZen",
+        "reason": "Mentioned as a data provider, no sentiment expressed about its performance."
+      }
+    ]
+  },
+  {
+    "entity_id": "equityzen",
+    "canonical_name": "EquityZen",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "confidence": 1.0,
+    "evidence": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "",
+        "source_span": "Valuation by Forge Firm data by EquityZen",
+        "reason": "Mentioned as a data provider, no sentiment expressed about its performance."
+      }
+    ]
+  }
+]

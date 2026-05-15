@@ -1,0 +1,6 @@
+{
+  "total_estimated_input_tokens": 7129,
+  "total_estimated_output_tokens": 35396,
+  "estimated_total_cost_usd": 0.011153,
+  "efficiency_strategy": "Deduplicated HTML tags (removed scripts, styles, navs) before sending to LLM to heavily reduce input token size and save costs."
+}

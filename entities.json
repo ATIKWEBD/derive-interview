@@ -1,0 +1,685 @@
+[
+  {
+    "entity_id": "yahoo_finance",
+    "canonical_name": "Yahoo Finance",
+    "entity_type": "Financial Platform",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Yahoo Finance",
+        "source_span": "84-97"
+      },
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Yahoo Finance",
+        "source_span": "173-186"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "nasdaq",
+    "canonical_name": "Nasdaq",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Nasdaq",
+        "source_span": "250-256"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "s_p_500",
+    "canonical_name": "S&P 500",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "S&P 500",
+        "source_span": "297-304"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "dow_30",
+    "canonical_name": "Dow 30",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Dow 30",
+        "source_span": "345-351"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "ibovespa",
+    "canonical_name": "IBOVESPA",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "IBOVESPA",
+        "source_span": "392-400"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "russell_2000",
+    "canonical_name": "Russell 2000",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Russell 2000",
+        "source_span": "441-453"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "s_p_tsx_composite_index",
+    "canonical_name": "S&P/TSX Composite Index",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "S&P/TSX Composite index",
+        "source_span": "494-517"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "us_dollar_index",
+    "canonical_name": "US Dollar Index",
+    "entity_type": "Currency Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "US Dollar Index",
+        "source_span": "558-573"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "vix",
+    "canonical_name": "VIX",
+    "entity_type": "Volatility Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "VIX",
+        "source_span": "614-617"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "euro_stoxx_50",
+    "canonical_name": "EURO STOXX 50",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "EURO STOXX 50",
+        "source_span": "670-684"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "dax",
+    "canonical_name": "DAX",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "DAX",
+        "source_span": "735-738"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "euronext_100_index",
+    "canonical_name": "Euronext 100 Index",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Euronext 100 Index",
+        "source_span": "789-807"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "cac_40",
+    "canonical_name": "CAC 40",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "CAC 40",
+        "source_span": "848-854"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "msci_europe",
+    "canonical_name": "MSCI EUROPE",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "MSCI EUROPE",
+        "source_span": "895-906"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "ftse_100",
+    "canonical_name": "FTSE 100",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "FTSE 100",
+        "source_span": "947-955"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "euro_index",
+    "canonical_name": "Euro Index",
+    "entity_type": "Currency Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Euro Index",
+        "source_span": "996-1006"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "british_pound_index",
+    "canonical_name": "British Pound Index",
+    "entity_type": "Currency Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "British Pound Index",
+        "source_span": "1047-1066"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "s_p_bse_sensex",
+    "canonical_name": "S&P BSE SENSEX",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "S&P BSE SENSEX",
+        "source_span": "1119-1133"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "s_p_asx_200",
+    "canonical_name": "S&P/ASX 200",
+    "entity_type": "Stock Index",
+    "aliases": [
+      "XJO"
+    ],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "S&P/ASX 200 [XJO]",
+        "source_span": "1174-1193"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "japanese_yen_index",
+    "canonical_name": "Japanese Yen Index",
+    "entity_type": "Currency Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Japanese Yen Index",
+        "source_span": "1234-1252"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "australian_dollar_index",
+    "canonical_name": "Australian Dollar Index",
+    "entity_type": "Currency Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Australian Dollar Index",
+        "source_span": "1293-1316"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "sse_composite_index",
+    "canonical_name": "SSE Composite Index",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "SSE Composite Index",
+        "source_span": "1357-1376"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "hang_seng",
+    "canonical_name": "Hang Seng",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Hang Seng",
+        "source_span": "1417-1426"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "nikkei_225",
+    "canonical_name": "Nikkei 225",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Nikkei 225",
+        "source_span": "1467-1477"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "kospi_composite_index",
+    "canonical_name": "KOSPI Composite Index",
+    "entity_type": "Stock Index",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "KOSPI Composite Index",
+        "source_span": "1518-1539"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "crude_oil",
+    "canonical_name": "Crude Oil",
+    "entity_type": "Commodity",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Crude Oil",
+        "source_span": "1592-1601"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "brent_crude_oil",
+    "canonical_name": "Brent Crude Oil",
+    "entity_type": "Commodity",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Brent Crude Oil Last Day Financ",
+        "source_span": "1642-1673"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "natural_gas",
+    "canonical_name": "Natural Gas",
+    "entity_type": "Commodity",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Natural Gas Jun 26",
+        "source_span": "1714-1732"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "gold",
+    "canonical_name": "Gold",
+    "entity_type": "Commodity",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Gold",
+        "source_span": "1773-1777"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "copper",
+    "canonical_name": "Copper",
+    "entity_type": "Commodity",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Copper Jul 26",
+        "source_span": "1818-1831"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "silver",
+    "canonical_name": "Silver",
+    "entity_type": "Commodity",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Silver",
+        "source_span": "1872-1878"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "usd_aud",
+    "canonical_name": "USD/AUD",
+    "entity_type": "Currency Pair",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "USD/AUD",
+        "source_span": "1931-1938"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "usd_mxn",
+    "canonical_name": "USD/MXN",
+    "entity_type": "Currency Pair",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "USD/MXN",
+        "source_span": "1979-1986"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "usd_gbp",
+    "canonical_name": "USD/GBP",
+    "entity_type": "Currency Pair",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "USD/GBP",
+        "source_span": "2027-2034"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "usd_cad",
+    "canonical_name": "USD/CAD",
+    "entity_type": "Currency Pair",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "USD/CAD",
+        "source_span": "2075-2082"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "usd_jpy",
+    "canonical_name": "USD/JPY",
+    "entity_type": "Currency Pair",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "USD/JPY",
+        "source_span": "2123-2130"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "eur_usd",
+    "canonical_name": "EUR/USD",
+    "entity_type": "Currency Pair",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "EUR/USD",
+        "source_span": "2171-2178"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "2_yr_t_note_futures",
+    "canonical_name": "2 Yr T-Note Futures",
+    "entity_type": "Bond/Future",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "2 Yr T-Note Futures",
+        "source_span": "2231-2250"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "5_yr_bond",
+    "canonical_name": "5-Yr Bond",
+    "entity_type": "Bond",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "5-Yr Bond",
+        "source_span": "2291-2300"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "13_wk_bond",
+    "canonical_name": "13-Wk Bond",
+    "entity_type": "Bond",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "13-Wk Bond",
+        "source_span": "2341-2351"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "10_yr_bond",
+    "canonical_name": "10-Yr Bond",
+    "entity_type": "Bond",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "10-Yr Bond",
+        "source_span": "2392-2402"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "10_yr_t_note_futures",
+    "canonical_name": "10 Yr T-Note Futures",
+    "entity_type": "Bond/Future",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "10 Yr T-Note Futures",
+        "source_span": "2443-2463"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "30_yr_bond",
+    "canonical_name": "30-Yr Bond",
+    "entity_type": "Bond",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "30-Yr Bond",
+        "source_span": "2504-2514"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "forge_firm",
+    "canonical_name": "Forge Firm",
+    "entity_type": "Financial Company",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "Forge Firm",
+        "source_span": "3004-3014"
+      }
+    ],
+    "resolution_confidence": 1.0
+  },
+  {
+    "entity_id": "equityzen",
+    "canonical_name": "EquityZen",
+    "entity_type": "Financial Company",
+    "aliases": [],
+    "source_mentions": [
+      {
+        "content_id": "yahoo_finance_market_overview_snapshot_20240729",
+        "source_url": "https://finance.yahoo.com/markets",
+        "mention_text": "EquityZen",
+        "source_span": "3027-3036"
+      }
+    ],
+    "resolution_confidence": 1.0
+  }
+]
